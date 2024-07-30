@@ -221,9 +221,6 @@ target_link_libraries(mono_euroc ORB_SLAM2_lib)
 
 ## 12)  Build g2o
 
-```
-```
-
 ```console
 cd /root/ORB_SLAM2/Thirdparty/g2o
 mkdir build
