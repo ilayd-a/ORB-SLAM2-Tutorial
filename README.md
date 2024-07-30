@@ -264,7 +264,6 @@ Specifically, you need to edit:
 - Examples/RGB-D/rgbd_tum.cc
 - Examples/Stereo/stereo_euroc.cc
 - Examples/Monocular/mono_kitti.cc
--
   
 You can edit these files using nano from your terminal:
 
